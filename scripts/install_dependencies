@@ -1,4 +1,0 @@
-#!/bin/bash
-# Install any dependencies here
-yum update -y
-yum install -y nginx
